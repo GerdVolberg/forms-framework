@@ -1,6 +1,8 @@
 #summary Wiki for the code-project forms-framework
 
-My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg job-history]
+= Who am I ? =
+
+My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
 
 = Forms Framework =
 
@@ -12,5 +14,6 @@ My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg job-history]
 
 = Links =
 
-= Interesting BLOGs =
+= Conferences =
 
+= Interesting BLOGs =
