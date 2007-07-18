@@ -1,9 +1,0 @@
-#summary Wiki for the code-project forms-framework
-
-= Introduction =
-
-My name is Gerd Volberg. I work since 1992 in the world of Oracle databases and Oracle Forms. After the first project I thought to myself: It can't be, that 
-
-= Details =
-
-...
