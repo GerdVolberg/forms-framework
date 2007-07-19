@@ -1,5 +1,3 @@
-#summary Wiki for the code-project forms-framework
-
 = Who am I ? =
 
 My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
@@ -27,7 +25,6 @@ My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
-
 
 
 
