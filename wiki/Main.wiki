@@ -12,8 +12,22 @@ My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
 
 = White Papers =
 
-= Links =
-
 = Conferences =
 
 = Interesting BLOGs =
+||[http://radiofreetooting.blogspot.com/ Andrew Clarke]||
+||[http://fdegrelle.over-blog.com/ Francois Degrelle]||
+||[http://www.oratransplant.nl/ Wilfred van der Deijl]||
+||[http://sueharper.blogspot.com/ Sue Harper]||
+||[http://www.groundside.com/blog/content/DuncanMills/ Duncan Mills]||
+||[http://www.orablogs.com/fnimphius/ Frank Nimphius]||
+||[http://www.groundside.com/blog/content/GrantRonald/ Grant Ronald]||
+||[http://beezleblog.blogspot.com/ Stefan Scheidt]||
+||[http://torstenwinterberg.blogspot.com/ Torsten Winterberg]||
+
+= Links =
+||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
+
+
+
+
