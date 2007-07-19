@@ -13,18 +13,21 @@ My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
 = Conferences =
 
 = Interesting BLOGs =
-||[http://radiofreetooting.blogspot.com/ Andrew Clarke]||
-||[http://fdegrelle.over-blog.com/ Francois Degrelle]||
-||[http://www.oratransplant.nl/ Wilfred van der Deijl]||
-||[http://sueharper.blogspot.com/ Sue Harper]||
-||[http://www.groundside.com/blog/content/DuncanMills/ Duncan Mills]||
-||[http://www.orablogs.com/fnimphius/ Frank Nimphius]||
-||[http://www.groundside.com/blog/content/GrantRonald/ Grant Ronald]||
-||[http://beezleblog.blogspot.com/ Stefan Scheidt]||
-||[http://torstenwinterberg.blogspot.com/ Torsten Winterberg]||
+||[http://radiofreetooting.blogspot.com/ Andrew Clarke]||Notes from the Tooting Bec Underground||
+||[http://fdegrelle.over-blog.com/ Francois Degrelle]||Francois Degrelle's blog About some Oracle technologies||
+||[http://www.oratransplant.nl/ Wilfred van der Deijl]||Wilfreds BLOG on OraTransplant||
+||[http://sueharper.blogspot.com/ Sue Harper]||Bits and pieces about stuff I do and the tools I work with. Hobbies I talk about elsewhere...||
+||[http://www.groundside.com/blog/content/DuncanMills/ Duncan Mills]||Duncan Mills's WebLog from GroundSide||
+||[http://www.orablogs.com/fnimphius/ Frank Nimphius]||About Oracle JDeveloper, Oracle ADF, ADF Faces, ADF Swing, J2EE Security and Oracle Forms||
+||[http://www.groundside.com/blog/content/GrantRonald/ Grant Ronald]||News from the SOA, JEE, ADF, JDevelope and Oracle Forms World||
+||[http://beezleblog.blogspot.com/ Stefan Scheidt]||Stefans Weblog||
+||[http://torstenwinterberg.blogspot.com/ Torsten Winterberg]||SOA, EDA, BPEL, BAM - The Blog||
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
+
+
+
 
 
 
