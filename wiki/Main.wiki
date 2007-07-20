@@ -1,3 +1,5 @@
+#summary Main entrance to the forms-framework-wiki
+
 = Who am I ? =
 
 My name is Gerd Volberg. A short [Vita]: 15 years Oracle Forms, Designer and PL/SQL, 10 years of presentations at doag-conferences, 3 years an oracle open worlds in SF, and growing
@@ -25,7 +27,6 @@ My name is Gerd Volberg. A short [Vita]: 15 years Oracle Forms, Designer and PL/
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
-
 
 
 
