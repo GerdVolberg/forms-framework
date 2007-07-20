@@ -14,7 +14,8 @@ My name is Gerd Volberg. My short [Vita] is: 15 years Oracle Forms, Designer and
 = White Papers =
 
 = Conferences =
-||1997||[http://www.volberg.net/doag/doag1997.zip DOAG-Conference]|| || ||
+||1997||  
+|| ||[http://www.volberg.net/doag/doag1997.zip DOAG-Conference]|| || ||
 ||1998||[http://www.volberg.net/doag/doag1998.zip DOAG-Conference]|| || ||
 ||1999||[http://www.volberg.net/doag/doag1999.zip DOAG-Conference]|| || ||
 ||2000||[http://www.volberg.net/doag/doag2000.zip DOAG-Conference]|| || ||
@@ -39,6 +40,7 @@ My name is Gerd Volberg. My short [Vita] is: 15 years Oracle Forms, Designer and
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
+
 
 
 
