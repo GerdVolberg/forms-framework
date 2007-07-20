@@ -20,10 +20,10 @@ My name is Gerd Volberg. My short [Vita] is: 15 years Oracle Forms, Designer and
 ||2000||[http://www.volberg.net/doag/doag2000.zip DOAG-Conference]||||||
 ||2001||[http://www.volberg.net/doag/doag2001.zip DOAG-Conference]||||||
 ||2002||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]||||||
-||2003||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]||Open World San Francisco||||
-||2004||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]||||||
-||2005||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]||Open World San Francisco||||
-||2006||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]||Open World San Francisco||AOUG-Conference||
+||2003||[http://www.volberg.net/doag/doag2003.zip DOAG-Conference]||Open World San Francisco||||
+||2004||[http://www.volberg.net/doag/doag2004.zip DOAG-Conference]||||||
+||2005||[http://www.volberg.net/doag/doag2005.zip DOAG-Conference]||Open World San Francisco||||
+||2006||[http://www.volberg.net/doag/doag2006.zip DOAG-Conference]||Open World San Francisco||AOUG-Conference||
  
 
 = Interesting BLOGs =
@@ -39,7 +39,6 @@ My name is Gerd Volberg. My short [Vita] is: 15 years Oracle Forms, Designer and
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
-
 
 
 
