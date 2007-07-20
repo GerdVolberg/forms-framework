@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+#summary History of Gerd Volberg
+
+I work since 1992 in the world of Oracle Databases and Forms. After the first projects I thought to myself: Why must I invent each wheel new with each new project..
+
+That was the rising of the Forms-Framework
+
+In the first years the framework started with templates and pl/sql-libraries. After many years of using Oracle Designer more and more OLB-techniques moved into framework.
+
+Using structured inheritances through object groups is now the main technique for all further development
+
