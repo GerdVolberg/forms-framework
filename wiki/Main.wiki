@@ -1,6 +1,6 @@
 = Who am I ? =
 
-My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
+My name is Gerd Volberg. A short [Vita]: 15 years Oracle Forms, Designer and PL/SQL, 10 years of presentations at doag-conferences, 3 years an oracle open worlds in SF, and growing
 
 = Forms Framework =
 
@@ -25,7 +25,6 @@ My name is Gerd Volberg. This is my personal [HistoryOfGerdVolberg history]
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
-
 
 
 
