@@ -1,21 +1,25 @@
 #summary Summary of all presentations since 1997. DOAG conferences, Open World, ...
 
-||Year||Conference-Name||Original Name||Translation||
-||1997||[http://www.volberg.net/doag/doag1997.zip DOAG-Conference]||Erste Erfahrungen mit Forms 5.0||First experiences with Forms 5.0||doc||
-||1998||[http://www.volberg.net/doag/doag1998.zip DOAG-Conference]||Is it worth to go to Forms 6.0?||Lohnt ein Umstieg auf Forms 6.0?||doc+ppt||
-||1999||[http://www.volberg.net/doag/doag1999.zip DOAG-Conference]||Rapid Application Building||Rapid Application Building||doc+ppt||
-||2000||[http://www.volberg.net/doag/doag2000.zip DOAG-Conference]||Designer 6i-New Features||Designer 6i-New Features||ppt||
-||2001||[http://www.volberg.net/doag/doag2001.zip DOAG-Conference]|| || ||
-||2002||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]|| || ||
-||2003||[http://www.volberg.net/doag/doag2003.zip DOAG-Conference]|| || ||
+||Year||Conference-Name||Original Name||Translation||doc||ppt||
+||1997||[http://www.volberg.net/doag/doag1997.zip DOAG-Conference]||Erste Erfahrungen mit Forms 5.0||First experiences with Forms 5.0||doc|| ||
+||1998||[http://www.volberg.net/doag/doag1998.zip DOAG-Conference]||Is it worth to go to Forms 6.0?||Lohnt ein Umstieg auf Forms 6.0?||doc||ppt||
+||1999||[http://www.volberg.net/doag/doag1999.zip DOAG-Conference]||Rapid Application Building||Rapid Application Building||doc||ppt||
+||2000||[http://www.volberg.net/doag/doag2000.zip DOAG-Conference]||Designer 6i-New Features||Designer 6i-New Features|| ||ppt||
+||2001||[http://www.volberg.net/doag/doag2001.zip DOAG-Conference]||Objekt Orientierung unter Forms 6i||Working object-orientated in Forms 6i||doc||ppt||
+||2002||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]||The Power of Forms 9i||The Power of Forms 9i|| ||ppt||
+||2003||[http://www.volberg.net/doag/doag2003.zip DOAG-Conference]||The Power of Webutil||The Power of Webutil||doc||ppt||
 || ||Open World San Francisco|| || ||
-||2004||[http://www.volberg.net/doag/doag2004.zip DOAG-Conference]|| || ||
-||2005||[http://www.volberg.net/doag/doag2005.zip DOAG-Conference]|| || ||
+||2004||[http://www.volberg.net/doag/doag2004.zip DOAG-Conference]||Refactoring PL/SQL||Refactoring PL/SQL||doc||ppt||
+||2005||[http://www.volberg.net/doag/doag2005.zip DOAG-Conference]||Automatisiertes Testen in PL/SQL||Automated Testing in PL/SQL||doc||ppt||
 || ||Open World San Francisco|| || ||
-||2006||[http://www.volberg.net/doag/doag2006.zip DOAG-Conference]|| || ||
+||2006||[http://www.volberg.net/doag/doag2006.zip DOAG-Conference]||Oracle Forms 10g und BPEL||Oracle Forms 10g and BPEL||doc||ppt||
 || ||Open World San Francisco|| || ||
 || ||AOUG-Conference|| || ||
  
+
+
+
+
 
 
 
