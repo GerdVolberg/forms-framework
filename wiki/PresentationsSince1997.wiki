@@ -14,7 +14,7 @@
 || ||[http://www.volberg.net/doag/oow2005.zip Open World San Francisco]||Automated Migration from Forms 6i to Forms 10g|| || ||ppt||
 ||2006||[http://www.volberg.net/doag/doag2006.zip DOAG-Conference]||Oracle Forms 10g und BPEL||Oracle Forms 10g and BPEL||doc||ppt||
 || ||[http://www.volberg.net/doag/oow2006.zip Open World San Francisco]||BI Beans in Oracle Forms 10g|| || ||ppt||
-|| ||[http://www.volberg.net/doag/aoug2006.zip AOUG-Conference||Oracle Forms 10g+BPEL|| || ||ppt||
+|| ||[http://www.volberg.net/doag/aoug2006.zip AOUG-Conference]||Oracle Forms 10g+BPEL|| || ||ppt||
  
 
 
