@@ -1,17 +1,22 @@
-#summary One-sentence summary of this page.
+#summary Summary of all presentations since 1997. DOAG conferences, Open World, ...
 
-||1997||[http://www.volberg.net/doag/doag1997.zip DOAG-Conference]|| ||
-||1998||[http://www.volberg.net/doag/doag1998.zip DOAG-Conference]|| ||
-||1999||[http://www.volberg.net/doag/doag1999.zip DOAG-Conference]|| ||
-||2000||[http://www.volberg.net/doag/doag2000.zip DOAG-Conference]|| ||
-||2001||[http://www.volberg.net/doag/doag2001.zip DOAG-Conference]|| ||
-||2002||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]|| ||
-||2003||[http://www.volberg.net/doag/doag2003.zip DOAG-Conference]|| ||
-|| ||Open World San Francisco||||
-||2004||[http://www.volberg.net/doag/doag2004.zip DOAG-Conference]|| ||
-||2005||[http://www.volberg.net/doag/doag2005.zip DOAG-Conference]||
-|| ||Open World San Francisco|| ||
-||2006||[http://www.volberg.net/doag/doag2006.zip DOAG-Conference]||
-|| ||Open World San Francisco|| ||
-|| ||AOUG-Conference|| ||
+||Year||Conference-Name||Original Name||Translation||
+||1997||[http://www.volberg.net/doag/doag1997.zip DOAG-Conference]||Erste Erfahrungen mit Forms 5.0||First experiences with Forms 5.0||doc||
+||1998||[http://www.volberg.net/doag/doag1998.zip DOAG-Conference]||Is it worth to go to Forms 6.0?||Lohnt ein Umstieg auf Forms 6.0?||doc+ppt||
+||1999||[http://www.volberg.net/doag/doag1999.zip DOAG-Conference]||Rapid Application Building||Rapid Application Building||doc+ppt||
+||2000||[http://www.volberg.net/doag/doag2000.zip DOAG-Conference]||Designer 6i-New Features||Designer 6i-New Features||ppt||
+||2001||[http://www.volberg.net/doag/doag2001.zip DOAG-Conference]|| || ||
+||2002||[http://www.volberg.net/doag/doag2002.zip DOAG-Conference]|| || ||
+||2003||[http://www.volberg.net/doag/doag2003.zip DOAG-Conference]|| || ||
+|| ||Open World San Francisco|| || ||
+||2004||[http://www.volberg.net/doag/doag2004.zip DOAG-Conference]|| || ||
+||2005||[http://www.volberg.net/doag/doag2005.zip DOAG-Conference]|| || ||
+|| ||Open World San Francisco|| || ||
+||2006||[http://www.volberg.net/doag/doag2006.zip DOAG-Conference]|| || ||
+|| ||Open World San Francisco|| || ||
+|| ||AOUG-Conference|| || ||
  
+
+
+
+
