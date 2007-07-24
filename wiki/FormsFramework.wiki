@@ -11,18 +11,18 @@ All objects are bundled into object-groups. Those groups are inherited to the fo
 = PL/SQL-Libraries =
 == frw_lib.pll ==
 
-This is the [plsql_library_frw_lib main library] in the framework. All forms use an attachment to the frw_lib.
+This is the [plsql_library_frw_lib main library] in the framework. All forms are attached to this library.
 
 == frw_kit.pll ==
-under construction
+uses frw_lib.pll
+under construction...
 
 
 = Form-Templates =
 == frw_template.fmb ==
 
+This Template is the [forms_frw_template main-template] for all developed form-modules
 
 
 
-
-
-
+= Menus =
