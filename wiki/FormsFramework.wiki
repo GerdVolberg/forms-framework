@@ -21,7 +21,7 @@ under construction...
 = Form-Templates =
 == frw_template.fmb ==
 
-This Template is the [forms_frw_template main-template] for all developed form-modules
+This is the [forms_frw_template main-template] for all developed form-modules.
 
 
 
