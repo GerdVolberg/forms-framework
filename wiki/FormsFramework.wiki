@@ -1,25 +1,28 @@
 #summary How to use the Forms Framework
 
-= Ref-Template =
-
+= Reference-Template =
 == frw_ref.fmb ==
 
 This is the central form of the Forms-Framework. All objects of the form-templates, form-modules and all menus are inherited from here.
 
-The objects are bundles in object-groups. Those groups are inherited to the forms-template and from there they're copied into each form-module
+All objects are bundled into object-groups. Those groups are inherited to the forms-template and from there they're copied into each form-module.
 
 
-= PL/SQL-Library =
-
+= PL/SQL-Libraries =
 == frw_lib.pll ==
 
-
-
+This is the [plsql_library_frw_lib main library] in the framework. All forms use an attachment to the frw_lib.
 
 == frw_kit.pll ==
 under construction
 
 
-= Form-Template =
-
+= Form-Templates =
 == frw_template.fmb ==
+
+
+
+
+
+
+
