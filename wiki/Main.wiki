@@ -1,4 +1,4 @@
-#summary Main entrance to the forms-framework-wiki
+#summary Main entrance of my Wiki
 #labels Featured
 
 = Who am I ? =
@@ -24,7 +24,6 @@ All my [PresentationsSince1997 presentations] since 1997.
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
-
 
 
 
