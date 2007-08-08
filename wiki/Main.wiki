@@ -5,6 +5,8 @@
 
 My name is Gerd Volberg. My short [Vita] is: 15 years Oracle Forms, Designer and PL/SQL, 10 years of presentations at doag-conferences, 3 years an oracle open worlds in SF, and growing
 
+[News News]
+
 = Forms Framework =
 My lifetime-project called [FormsFramework Forms Framework] is a bundle of Reference-Templates, PL/SQL-Libraries, Forms Templates and How-To's for an easier development of Oracle Forms-Projects
 
@@ -24,6 +26,5 @@ All my [PresentationsSince1997 presentations] since 1997.
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
-
 
 
