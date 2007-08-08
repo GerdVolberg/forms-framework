@@ -15,7 +15,7 @@ This is the [plsql_library_frw_lib main library] in the framework. All forms are
 
 == frw_kit.pll ==
 uses frw_lib.pll
-under construction...
+[under construction]
 
 
 = Form-Templates =
@@ -26,3 +26,14 @@ This is the [forms_frw_template main-template] for all developed form-modules.
 
 
 = Menus =
+== frm_menu.fmb == 
+
+under construction
+
+
+= Test Forms =
+== frw_check_builtin ==
+
+== frw_post_query ==
+
+[under construction] v. 1.0.6
