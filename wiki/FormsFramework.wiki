@@ -1,4 +1,4 @@
-#summary How to use the Forms Framework
+#summary Content of the Forms Framework
 
 = Reference-Template =
 == frw_ref.fmb ==
