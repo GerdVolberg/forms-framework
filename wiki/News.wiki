@@ -2,8 +2,10 @@
 #labels Featured
 
 = 2007-August-09 =
- * frw_test is the new test-form
- * 070809_scott_tiger.zip is new
+ * 070809_Framework.zip
+  * frw_test is the new test-form
+ * 070809_Scott_Tiger.zip
+  * Scott-Schema for Testing Purpose
 
 = 2007-August-03 =
  * set_record_query_status: current_record wasn't the correct built-in.
