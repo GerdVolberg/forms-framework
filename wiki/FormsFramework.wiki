@@ -13,28 +13,28 @@ All objects are bundled into object-groups. Those groups are inherited to the fo
 
 This is the [plsql_library_frw_lib main library] in the framework. All forms are attached to this library.
 
-== frw_kit.pll ==
+ * frw_kit.pll
 uses frw_lib.pll
 
 under construction
 
 
 = Form-Templates =
-== frw_template.fmb ==
+ * frw_template.fmb
 
 This is the [forms_frw_template main-template] for all developed form-modules.
 
 
 
 = Menus =
-== frm_menu.fmb == 
+ * frm_menu.fmb 
 
 under construction
 
 
 = Test Forms =
-== frw_check_builtin ==
+ * frw_check_builtin
 
-== frw_post_query ==
+ * frw_post_query
 
 under construction (1.0.6)
