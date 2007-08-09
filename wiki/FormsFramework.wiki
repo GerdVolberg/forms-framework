@@ -27,7 +27,7 @@ This is the [forms_frw_template main-template] for all developed form-modules.
 
 
 = Menus =
- * frm_menu.fmb 
+ * frw_menu.fmb 
 
 under construction
 
