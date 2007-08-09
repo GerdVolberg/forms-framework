@@ -2,7 +2,7 @@
 #labels Featured
 
 = 070809 =
- * frw_post_query is a new test-form
+ * frw_test is the new test-form
  * 070809_scott_tiger.zip is new
 
 = 070803 =
