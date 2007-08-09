@@ -1,33 +1,28 @@
 #summary Actual news
 #labels Featured
 
-= 070809 =
+= 2007-August-09 =
  * frw_test is the new test-form
  * 070809_scott_tiger.zip is new
 
-= 070803 =
+= 2007-August-03 =
  * set_record_query_status: current_record wasn't the correct built-in.
 
-
-= 070802 =
+= 2007-August-02 =
  * readme.txt is new
 
-
-= 070727 =
+= 2007-July-27 =
  * frw_library_version is renamed to version_frw_library
  * set_record_query_status is new
 
- 
-= 070724 =
+= 2007-July-24 =
  * equal and not_equal are new
  * all program units now have a default header with name, description and updates
 
-
-= 070720 =
+= 2007-July-20 =
  * american_weekday and german_weekday is new
  * const-package is new
  * frw_lib_version renamed to frw_library_version. The name in Forms is frm_forms_version
 
-
-= 070719 =
+= 2007-July-19 =
  * Forms Framework created
