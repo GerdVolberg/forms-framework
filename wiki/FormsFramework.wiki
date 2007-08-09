@@ -1,7 +1,7 @@
 #summary Components of the Forms Framework
 
 = Reference-Template =
-== frw_ref.fmb ==
+ * frw_ref.fmb
 
 This is the central form of the Forms-Framework. All objects of the form-templates, form-modules and all menus are inherited from here.
 
@@ -9,7 +9,7 @@ All objects are bundled into object-groups. Those groups are inherited to the fo
 
 
 = PL/SQL-Libraries =
-== frw_lib.pll ==
+ * frw_lib.pll
 
 This is the [plsql_library_frw_lib main library] in the framework. All forms are attached to this library.
 
