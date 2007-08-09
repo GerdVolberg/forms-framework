@@ -1,5 +1,10 @@
-#summary All News are in the format YYMMDD.
+#summary All news are described here
 #labels Featured
+
+All News are in the format YYMMDD.
+
+= 070809 =
+ * 
 
 = 070803 =
  * Set_Record_Query_Status: current_record wasn't the correct built-in.
