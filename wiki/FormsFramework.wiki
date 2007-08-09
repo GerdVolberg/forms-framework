@@ -1,4 +1,4 @@
-#summary Content of the Forms Framework
+#summary Components of the Forms Framework
 
 = Reference-Template =
 == frw_ref.fmb ==
