@@ -3,9 +3,9 @@
 = Reference-Template =
  * frw_ref.fmb
 
-This is the central form of the Forms-Framework. All objects of the form-templates, form-modules and all menus are inherited from here.
+This is the class-library of the Forms-Framework. All objects of the forms-template are subclassed from here.
 
-All objects are bundled into object-groups. Those groups are inherited to the forms-template and from there they're copied into each form-module.
+All objects are linked into objectgroups. This objectgroups are subclassed to the forms-template and from there they are copied into each form-module.
 
 
 = PL/SQL-Libraries =
@@ -19,7 +19,7 @@ uses frw_lib.pll
 under construction
 
 
-= Form-Templates =
+= Forms-Template =
  * frw_template.fmb
 
 This is the [forms_frw_template main-template] for all developed form-modules.
@@ -27,14 +27,12 @@ This is the [forms_frw_template main-template] for all developed form-modules.
 
 
 = Menus =
- * frw_menu.fmb 
+ * frw_menu.mmb 
 
 under construction
 
 
 = Test Forms =
- * frw_check_builtin
+ * frw_check_builtin.fmb
 
- * frw_post_query
-
-under construction (1.0.6)
+ * frw_test.fmb
