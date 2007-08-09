@@ -1,7 +1,5 @@
-#summary All news are described here
+#summary Actual news
 #labels Featured
-
-All News are in the format YYMMDD.
 
 = 070809 =
  * 
