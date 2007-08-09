@@ -3,6 +3,33 @@
 
 = 070803 =
 
-...
+ * Set_Record_Query_Status: current_record wasn't the correct built-in.
+
+
+= 070802 =
+
+ * readme.txt is new
+
+
+= 070727 =
+
+ * frw_Library_Version is renamed to Version_frw_Library
+ * Set_Record_Query_Status is new
 
  
+= 070724 =
+
+ * Equal and Not_Equal is new
+ * All program units now have a default header with name, description and updates
+
+
+= 070720 =
+
+ * American_Weekday and German_Weekday is new
+ * Const-Package is new
+ * frw_Lib_Version renamed to frw_Library_Version. The name in Forms is frm_Forms_Version
+
+
+= 070719 =
+
+ * Forms Framework Kickoff
