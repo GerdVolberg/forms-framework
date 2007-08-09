@@ -2,7 +2,7 @@
 #labels Featured
 
 = 070809 =
- * 
+ * frw_post_query is a new test-form
 
 = 070803 =
  * Set_Record_Query_Status: current_record wasn't the correct built-in.
