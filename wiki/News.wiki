@@ -1,6 +1,5 @@
-#summary All News are sorted and in the format YYMMDD. The zip-files are created through the same technique: YYMMDD_Framework.zip
+#summary All News are in the format YYMMDD.
 #labels Featured
-
 
 = 070803 =
  * Set_Record_Query_Status: current_record wasn't the correct built-in.
