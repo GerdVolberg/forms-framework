@@ -16,7 +16,7 @@ This is the [plsql_library_frw_lib main library] in the framework. All forms are
 == frw_kit.pll ==
 uses frw_lib.pll
 
-[UnderConstruction under construction]
+[UnderConstruction Under construction]
 
 
 = Form-Templates =
@@ -37,4 +37,4 @@ under construction
 
 == frw_post_query ==
 
-[UnderConstruction under construction] v. 1.0.6
+[UnderConstruction Under construction] v. 1.0.6
