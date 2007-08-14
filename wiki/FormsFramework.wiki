@@ -36,3 +36,4 @@ under construction
  * frw_check_builtin.fmb
 
  * frw_test.fmb
+[image:frw_form_test.JPG]
