@@ -35,5 +35,4 @@ under construction
 = Test Forms =
  * frw_check_builtin.fmb
 
- * frw_test.fmb
-[frw_form_test.JPG]
+ * frw_test.fmb 
