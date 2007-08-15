@@ -1,6 +1,6 @@
--- p:\pvs\forms6i\entwicklung\vol\Scripts\frw_logging.tab
+-- p:\pvs\forms6i\entwicklung\vol\Scripts\create_all.tab
 --
--- Generated for Oracle 8 on Wed Aug 15  15:11:58 2007 by Server Generator 6.0.3.3.0
+-- Generated for Oracle 8 on Wed Aug 15  15:41:06 2007 by Server Generator 6.0.3.3.0
  
 
 
@@ -11,10 +11,10 @@ CREATE TABLE FRW_LOGGING
  ,APPLICATION_PART VARCHAR2(61) NOT NULL
  ,LOG_DATE DATE NOT NULL
  ,PRIORITY NUMBER NOT NULL
- ,SESSION_NO NUMBER
- ,SUB_SESSION_NO NUMBER
  ,TEXT VARCHAR2(2000) NOT NULL
  ,USERNAME VARCHAR2(30) NOT NULL
+ ,SESSION_NO NUMBER
+ ,SUB_SESSION_NO NUMBER
  ,INSERT_DATE DATE
  ,INSERT_USER VARCHAR2(30)
  ,UPDATE_DATE DATE
