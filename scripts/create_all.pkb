@@ -1,6 +1,6 @@
 -- p:\pvs\forms6i\entwicklung\vol\Scripts\create_all.pkb
 --
--- Generated for Oracle 8 on Wed Aug 15  15:41:06 2007 by Server Generator 6.0.3.3.0
+-- Generated for Oracle 8 on Wed Aug 15  16:11:01 2007 by Server Generator 6.0.3.3.0
  
 
 PROMPT Creating Package Body 'LOGG'
@@ -8,15 +8,15 @@ CREATE OR REPLACE PACKAGE BODY LOGG IS
 
 -- Sub-Program Units
 PROCEDURE INSERT_ROW
- (P_ID IN NUMBER
- ,P_APPLICATION IN VARCHAR2
+ (P_APPLICATION IN VARCHAR2
  ,P_APPLICATION_PART IN VARCHAR2
  ,P_LOG_DATE IN DATE
  ,P_PRIORITY IN NUMBER
  ,P_TEXT IN VARCHAR2
+ ,P_USERNAME IN VARCHAR2
  ,P_SESSION_NO IN NUMBER := NULL
  ,P_SUB_SESSION_NO IN NUMBER := NULL
- ,P_USERNAME IN VARCHAR2
+ ,P_ID IN NUMBER := NULL
  )
  IS
 -- Program Data
@@ -78,6 +78,8 @@ BEGIN
   SELECT LOGG_SEQ.nextval
     INTO V_ID
     FROM DUAL;
+
+  RETURN (V_ID);
 END;
 END NEXT_ID;
 
