@@ -1,6 +1,6 @@
--- p:\pvs\forms6i\entwicklung\vol\Scripts\frw_logging.trg
+-- p:\pvs\forms6i\entwicklung\vol\Scripts\create_all.trg
 --
--- Generated for Oracle 8 on Wed Aug 15  15:11:58 2007 by Server Generator 6.0.3.3.0
+-- Generated for Oracle 8 on Wed Aug 15  15:41:06 2007 by Server Generator 6.0.3.3.0
  
 
 PROMPT Creating Trigger 'LOGG_BRIU'

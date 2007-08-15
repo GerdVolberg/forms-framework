@@ -14,6 +14,14 @@ Creating Sequence 'LOGG_SEQ'
 
 Sequence wurde erstellt.
 
+Creating Package 'LOGG'
+
+Package wurde erstellt.
+
+Creating Package Body 'LOGG'
+
+Package Body wurde erstellt.
+
 Creating Trigger 'LOGG_BRIU'
 
 Trigger wurde erstellt.
