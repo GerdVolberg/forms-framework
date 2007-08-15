@@ -1,0 +1,20 @@
+Creating Table 'FRW_LOGGING'
+
+Tabelle wurde erstellt.
+
+Creating Index 'LOGG_I'
+
+Index wurde erstellt.
+
+Creating Primary Key on 'FRW_LOGGING'
+
+Tabelle wurde geändert.
+
+Creating Sequence 'LOGG_SEQ'
+
+Sequence wurde erstellt.
+
+Creating Trigger 'LOGG_BRIU'
+
+Trigger wurde erstellt.
+
