@@ -1,6 +1,6 @@
 -- p:\pvs\forms6i\entwicklung\vol\Scripts\logg.pkb
 --
--- Generated for Oracle 8 on Wed Aug 15  14:21:37 2007 by Server Generator 6.0.3.3.0
+-- Generated for Oracle 8 on Wed Aug 15  15:11:27 2007 by Server Generator 6.0.3.3.0
  
 
 PROMPT Creating Package Body 'LOGG'
@@ -17,7 +17,7 @@ BEGIN
      APPLICATION,
      APPLICATION_PART,
      LOG_DATE,
-     LOG_TEXT,
+     TEXT,
      PRIORITY,
      SESSION_NO,
      SUB_SESSION_NO,
@@ -27,7 +27,7 @@ BEGIN
      UPPER (P_Row.APPLICATION),      -- must be upper
      UPPER (P_Row.APPLICATION_PART), -- must be upper
      P_Row.LOG_DATE,
-     P_Row.LOG_TEXT,
+     P_Row.TEXT,
      P_Row.PRIORITY,
      P_Row.SESSION_NO,
      P_Row.SUB_SESSION_NO,
