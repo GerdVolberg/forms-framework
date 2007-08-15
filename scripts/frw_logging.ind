@@ -1,0 +1,10 @@
+-- p:\pvs\forms6i\entwicklung\vol\Scripts\frw_logging.ind
+--
+-- Generated for Oracle 8 on Wed Aug 15  14:18:06 2007 by Server Generator 6.0.3.3.0
+  
+
+PROMPT Creating Index 'LOGG_I'
+CREATE INDEX LOGG_I ON FRW_LOGGING
+ (SESSION_NO
+ ,SUB_SESSION_NO)
+/
