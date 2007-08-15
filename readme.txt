@@ -2,16 +2,14 @@ Oracle Forms Framework by Gerd Volberg
 
 http://code.google.com/p/forms-framework/
 
-Wiki 
 
+Wiki 
 http://code.google.com/p/forms-framework/w/list
 
 Downloads
-
 http://code.google.com/p/forms-framework/downloads/list
 
 BLOG
-
 http://talk2gerd.blogspot.com/
 
 
