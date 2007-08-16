@@ -1,2 +1,4 @@
-@@insert_logg;
+Prompt insert_logg;
+     @@insert_logg;
 
+commit;
