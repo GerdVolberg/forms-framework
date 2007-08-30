@@ -1,6 +1,9 @@
 #summary Actual news
 #labels Featured
 
+= 2007-August-16 =
+ * new structure of all files. Identical structure to the subversion-repository
+
 = 2007-August-09 =
 070809_Framework.zip
  * frw_test is the new test-form
