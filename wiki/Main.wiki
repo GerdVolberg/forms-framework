@@ -1,6 +1,8 @@
 #summary Startpage of the forms-framework-Wiki
 #labels Featured
 
+[http://img260.imageshack.us/img260/1962/frwformtestrf2.jpg]
+
 = Who am I ? =
 
 My name is Gerd Volberg. My short [Vita] is: 15 years Oracle Forms, Oracle Designer and PL/SQL, 10 years of presentations at doag-conferences, 3 years of Oracle Open Worlds in San Francisco, and more
