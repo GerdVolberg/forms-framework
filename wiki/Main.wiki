@@ -1,7 +1,7 @@
 #summary Startpage of the forms-framework-Wiki
 #labels Featured
 
-[http://img260.imageshack.us/img260/1962/frwformtestrf2.jpg]
+[http://img206.imageshack.us/img206/3047/frwformtestqw5.jpg]
 
 = Who am I ? =
 
@@ -28,4 +28,5 @@ All my [PresentationsSince1997 presentations] since 1997.
 
 = Links =
 ||[http://www.oracle.com/global/de/community/forms/index.html ORACLE-Forms-Homepage]||
+
 
