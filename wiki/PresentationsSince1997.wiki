@@ -17,3 +17,4 @@
 || ||[http://www.volberg.net/doag/aoug2006.zip AOUG-Conference]||Oracle Forms 10g+BPEL|| || ||ppt||
 ||2007||[http://www.volberg.net/doag/doag2007.zip DOAG-Conference]||Forms 11g: Ein Blick hinter die Kulissen||Forms 11g: A look behind the scenes||doc||ppt||
 ||2008||[http://www.volberg.net/doag/doag2008.zip DOAG-Conference]||Forms 11g in der Praxis||Forms 11g live||doc||ppt||
+||2009||DOAG-Conference||Oracle Designer vs. SQL Developer Data Modeler||Oracle Designer vs. SQL Developer Data Modeler||doc||ppt||
