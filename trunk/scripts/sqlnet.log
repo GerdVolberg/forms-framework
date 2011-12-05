@@ -1,0 +1,38 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.10.10.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=ora10g)(CID=(PROGRAM=C:\oracle\product\10.2.0\db10g\BIN\sqlplusw.exe)(HOST=NLWGM036)(USER=vol))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.2.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.2.0 - Production
+  Time: 13-JUN-2008 17:26:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS: Kein Listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Kein Listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.10.10.10)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=ora10g)(CID=(PROGRAM=C:\oracle\product\10.2.0\db10g\BIN\sqlplusw.exe)(HOST=NLWGM036)(USER=vol))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.4.0 - Production
+  Time: 10-NOV-2009 14:37:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 61
+    nt OS err code: 0
