@@ -21,7 +21,7 @@ All my [PresentationsSince1997 presentations] since 1997.
 ||[http://www.oratransplant.nl/ Wilfred van der Deijl]||Wilfreds BLOG on OraTransplant||
 ||[http://sueharper.blogspot.com/ Sue Harper]||Bits and pieces about stuff I do and the tools I work with. Hobbies I talk about elsewhere...||
 ||[http://www.groundside.com/blog/content/DuncanMills/ Duncan Mills]||Duncan Mills's WebLog from GroundSide||
-||[http://thepeninsulasedge.com/frank_nimphius/ Frank Nimphius]||About Oracle JDeveloper, Oracle ADF, ADF Faces, ADF Swing, J2EE Security and Oracle Forms||
+||[http://blogs.oracle.com/jdevotnharvest/ Frank Nimphius]||About Oracle JDeveloper, Oracle ADF, ADF Faces, ADF Swing, J2EE Security and Oracle Forms||
 ||[http://www.groundside.com/blog/content/GrantRonald/ Grant Ronald]||News from the SOA, JEE, ADF, JDevelope and Oracle Forms World||
 ||[http://beezleblog.blogspot.com/ Stefan Scheidt]||Stefans Weblog||
 ||[http://torstenwinterberg.blogspot.com/ Torsten Winterberg]||SOA, EDA, BPEL, BAM - The Blog||
