@@ -20,4 +20,4 @@
 ||2009||[http://www.volberg.net/doag/doag2009.zip DOAG-Conference]||Oracle Designer vs. SQL Developer Data Modeler|| ||doc||ppt||
 ||2010||[http://www.volberg.net/doag/doag2010.zip DOAG-Conference]||Forms 11g und das iPhone||Forms 11g and the iPhone||doc||ppt||
 ||2011||[http://www.volberg.net/doag/doag2011.zip DOAG-Conference]||Forms 11g meets BI|| ||doc||ppt||
-||2012||[http://www.volberg.net/doag/doag2011.zip DOAG-Conference]||Modernizing Oracle Forms|| ||doc||ppt||
+||2012||[http://www.volberg.net/doag/doag2012.zip DOAG-Conference]||Modernizing Oracle Forms|| ||doc||ppt||
