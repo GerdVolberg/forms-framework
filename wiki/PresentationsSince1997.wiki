@@ -21,4 +21,4 @@
 ||2010||[http://www.volberg.net/doag/doag2010.zip DOAG-Conference]||Forms 11g und das iPhone||Forms 11g and the iPhone||docx||pptx||
 ||2011||[http://www.volberg.net/doag/doag2011.zip DOAG-Conference]||Forms 11g meets BI|| ||docx||pptx||
 ||2012||[http://www.volberg.net/doag/doag2012.zip DOAG-Conference]||Modernizing Oracle Forms|| ||docx||pptx||
-||2013|| ab Ende Nov. 2013 ||Oracle Forms, Microsoft and more|| || || ||
+||2013|| 20. November 2013 ||Oracle Forms, Microsoft and more|| || || ||
