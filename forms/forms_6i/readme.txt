@@ -1,1 +1,1 @@
-All fmb's in this directory are Forms 6i and beyond
+All fmb's in this directory are Forms 6i

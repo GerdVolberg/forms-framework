@@ -1,1 +1,1 @@
-All fmb's in this directory are for Forms 10g and beyond
+All fmb's in this directory are for Forms 10g

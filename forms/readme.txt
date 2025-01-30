@@ -1,1 +1,1 @@
-All fmb's in this directory are Forms 10g and beyond compatible
+All fmb's in this directory are Forms 14c
